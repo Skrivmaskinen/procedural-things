@@ -1,0 +1,57 @@
+﻿  GL_utilities.c
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\gl_utilities.c(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+  loadobj.c
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(130): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(131): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(151): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(152): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(174): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(175): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(710): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(711): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(712): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(718): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(720): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(722): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(749): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(1122): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(1123): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadobj.c(1124): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  LoadTGA.c
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadtga.c(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadtga.c(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadtga.c(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadtga.c(182): warning C4018: '>=': signed/unsigned mismatch
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\loadtga.c(271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  VectorUtils3.c
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\vectorutils3.c(714): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\vectorutils3.c(717): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\vectorutils3.c(722): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+  glew.c
+  MicroGlut.c
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\windows\microglut.c(218): warning C4133: 'function': incompatible types - from 'char [9]' to 'LPCWSTR'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\windows\microglut.c(372): warning C4047: 'function': 'LPWORD' differs in levels of indirection from 'unsigned char (*)[2]'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\windows\microglut.c(372): warning C4024: 'ToAsciiEx': different types for formal and actual parameter 4
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\windows\microglut.c(538): warning C4133: '=': incompatible types - from 'char [9]' to 'LPCWSTR'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\windows\microglut.c(541): warning C4013: 'main' undefined; assuming extern returning int
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\common\windows\microglut.c(719): warning C4101: 'windowHDC': unreferenced local variable
+  psychteapot2.c
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(59): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(62): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(53): warning C4101: 'rot': unreferenced local variable
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(95): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(96): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(104): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(115): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(116): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alexa\documents\gitstuff\proceduralaudioandtextures\psychteapot-vs\psychteapot2.c(130): warning C4013: 'glutMotionFunc' undefined; assuming extern returning int
+  Generating Code...
+  psychteapot.vcxproj -> C:\Users\alexa\Documents\gitstuff\ProceduralAudioAndTextures\psychteapot-vs\Debug\psychteapot.exe
